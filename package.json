@@ -36,7 +36,7 @@
     "filenamify-url": "^1.0.0",
     "fs-extra": "^7.0.0",
     "globby": "^6.1.0",
-    "graceful-fs": "^4.1.11",
+    "graceful-fs": "^4.2.0",
     "rimraf": "^2.6.2"
   },
   "devDependencies": {
